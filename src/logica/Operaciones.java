@@ -66,7 +66,7 @@ public class Operaciones {
     
     public void reducir(int fi , int co,float matriz[][]){
         espaciovacio();
-    float div,multiplicador;
+    float div;
     float aux[]=new float[co];
     boolean condicio=true;
     
@@ -166,7 +166,7 @@ public class Operaciones {
             }
          
         
-    float div,multiplicador;
+    float div;
     float aux[]=new float[afi];
     boolean condicio=true;
     
